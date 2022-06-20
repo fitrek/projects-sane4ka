@@ -1,2 +1,2 @@
 # projects-sane4ka
-They told me to create a repository so that they would hire me. And so that it was green.
+I was told to create a repository so I could get hired for my first job. And that my git should be green)
